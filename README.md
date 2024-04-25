@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrezanadirkhanloo&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrezanadirkhanloo" /> </p>
 
-- 🔭 I’m currently working on **Map**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadrezaNadirkhanloo](https://github.com/MohammadrezaNadirkhanloo)
 
 - 💬 Ask me about **React / js / HTML / CSS**
@@ -137,6 +135,14 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
           alt="linux"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png"
+          alt="npm"
           width="40"
           height="40"
         />
