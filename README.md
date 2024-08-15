@@ -87,38 +87,10 @@
           height="40"
         />
       </a>
-      <a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-          alt="nextjs"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
           alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-          alt="docker"
           width="40"
           height="40"
         />
@@ -147,6 +119,56 @@
           height="40"
         />
       </a></p>
+<hr />
+
+<h3 align="left">Goals:</h3>
+<p align="left">
+         <a
+        href="https://www.typescriptlang.org/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+          alt="typescript"
+          width="40"
+          height="40"
+        />
+      </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrUEMidHZPEGh5BAKFpcEIoLT6frBq5ObTQw&s"
+          alt="nextjs"
+          width="40"
+          height="40"
+        />
+      </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+          alt="docker"
+          width="40"
+          height="40"
+        />
+      </a>
+        <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png"
+          alt="pwa"
+          width="40"
+          height="40"
+        />
+      </a>
+                <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://repository-images.githubusercontent.com/159722346/cd6aea00-9079-11ea-8f48-771cb5a8dffc"
+          alt="pwa"
+          width="40"
+          height="40"
+        />
+      </a>
+</p>
+
 <hr />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadrezanadirkhanloo&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mohammadrezanadirkhanloo" /></p>
