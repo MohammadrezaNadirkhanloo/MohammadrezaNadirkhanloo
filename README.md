@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Nadirkhanloo</h1>
 <h3 align="center">A passionate Front-end developer from IRAN</h3>
 
-<img align="center" alt="@@@" width = "900" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
+<p align="center">
+        <img alt="gif" width = "1000" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrezanadirkhanloo&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrezanadirkhanloo" /> </p>
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/MohammadrezaNadirkhanloo/count.svg"/>
+  </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadrezaNadirkhanloo](https://github.com/MohammadrezaNadirkhanloo)
 
@@ -13,113 +19,100 @@
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammadreza-nadirkhanloo-645880295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadreza nadirkhanloo" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.khanloo___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.khanloo___" height="30" width="40" /></a>
-<a href="https://discord.gg/1176562485147476012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1176562485147476012" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammadreza-nadirkhanloo-6700022a3/" target="blank">
+                <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="linkedin" />
+</a>
+<a href="https://instagram.com/mr.khanloo___" target="blank">
+                        <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="instagram" />
+</a>
 </p>
-<hr />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-          alt="tailwind"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-          alt="redux"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-          alt="linux"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png"
-          alt="npm"
-          width="40"
-          height="40"
-        />
-      </a></p>
-<hr />
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>     
+<h3 align="center">Languages and Tools:</h3>
+
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="40" height="40" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40" />
+      <br>Sass
+          </td>
+              <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui"width="40" height="40" alt="materialui" />
+      <br>MUI
+    </td>
+  </tr>
+  <tr>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="postman" />
+      <br>Postman
+    </td>
+              </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite"width="40" height="40" alt="vite" />
+      <br>Vite
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br>Figma
+    </td>
+               <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=xd" width="40" height="40" alt="xd" />
+      <br>XD
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
+      <br>NPM
+      </td>
+      </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+                     </td>
+                             <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
+      <br>Gitlab
+      </td>
+         </tr>
+</table>
+<br><br>
+</table>
 
 <h3 align="left">Goals:</h3>
 <p align="left">
@@ -128,28 +121,13 @@
         target="_blank"
         rel="noreferrer"
       >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40"
-        />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="ts" />
       </a>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrUEMidHZPEGh5BAKFpcEIoLT6frBq5ObTQw&s"
-          alt="nextjs"
-          width="40"
-          height="40"
-        />
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
       </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-          alt="docker"
-          width="40"
-          height="40"
-        />
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker" />
       </a>
         <a href="" target="_blank" rel="noreferrer">
         <img
@@ -160,21 +138,19 @@
         />
       </a>
                 <a href="" target="_blank" rel="noreferrer">
-        <img
-          src="https://repository-images.githubusercontent.com/159722346/cd6aea00-9079-11ea-8f48-771cb5a8dffc"
-          alt="pwa"
-          width="40"
-          height="40"
-        />
+<img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="graphql" />
       </a>
 </p>
 
-<hr />
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>     
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadrezanadirkhanloo&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mohammadrezanadirkhanloo" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaNadirkhanloo&theme=transparent&layout=compact"width="40%"/> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadrezanadirkhanloo&show_icons=true&locale=en&theme=transparent" alt="mohammadrezanadirkhanloo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrezanadirkhanloo&theme=transparent" alt="mohammadrezanadirkhanloo" /></p>
+<p align="center">
+<a href="https://github.com/MohammadrezaNadirkhanloo?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=MohammadrezaNadirkhanloo&theme=transparent&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
+<a href="https://github.com/MohammadrezaNadirkhanloo?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=MohammadrezaNadirkhanloo&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
 
 
