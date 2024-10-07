@@ -110,6 +110,12 @@
       <br>Gitlab
       </td>
          </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vitest" width="40" height="40" alt="vitest" />
+              <br>Vitest
+              </td> 
+        </tr>
 </table>
 <br><br>
 </table>
