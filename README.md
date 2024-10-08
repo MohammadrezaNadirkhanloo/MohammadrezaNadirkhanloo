@@ -116,6 +116,10 @@
               <br>Vitest
               </td> 
                  <td align="center" width="96">
+                        <img src="https://avatars.githubusercontent.com/u/49996085?s=48&v=4" width="40" height="40" alt="vitest" />
+              <br>React test
+              </td> 
+                 <td align="center" width="96">
                         <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
                       <br>NPM
               </td>
