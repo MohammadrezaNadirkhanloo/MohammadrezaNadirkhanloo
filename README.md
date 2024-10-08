@@ -42,7 +42,7 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
     <td align="center"  width="96">
@@ -89,9 +89,9 @@
       <br>XD
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
-      <br>NPM
-      </td>
+                <img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="idea" />
+              <br>Intellij
+           </td>
       </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
@@ -115,6 +115,10 @@
                 <img src="https://skillicons.dev/icons?i=vitest" width="40" height="40" alt="vitest" />
               <br>Vitest
               </td> 
+                 <td align="center" width="96">
+                        <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
+                      <br>NPM
+              </td>
         </tr>
 </table>
 <br><br>
