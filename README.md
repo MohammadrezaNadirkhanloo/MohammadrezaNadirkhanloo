@@ -71,9 +71,9 @@
     </td>
   </tr>
   <tr>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="postman" />
-      <br>Postman
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=styledcomponents"width="40" height="40" alt="styledcomponents" />
+      <br>Styled.C
     </td>
               </td>
               <td align="center" width="96">
@@ -123,6 +123,10 @@
                         <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
                       <br>NPM
               </td>
+                     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="postman" />
+      <br>Postman
+    </td>
         </tr>
 </table>
 <br><br>
