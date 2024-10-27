@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end developer from IRAN</h3>
 
 <p align="center">
-        <img alt="gif" width = "1000" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
+        <img alt="gif" width = "1000" src="https://uvacoder.github.io/ga-ga-gifs/web-dev/code.gif" >
 </p>
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
