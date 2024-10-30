@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadrezaNadirkhanloo](https://github.com/MohammadrezaNadirkhanloo)
 
-- 💬 Ask me about **React / js / HTML / CSS**
+- 💬 Ask me about **React / Ts / js / HTML / CSS**
 
 - 📫 How to reach me **m.nadirkhanloo1380@gmail.com**
 <hr />
@@ -41,6 +41,10 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="40" height="40" />
       <br>Redux
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="40" height="40" />
       <br>JavaScript
@@ -65,12 +69,13 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
+
+  </tr>
+  <tr>
+        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=materialui"width="40" height="40" alt="materialui" />
       <br>MUI
     </td>
-  </tr>
-  <tr>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=styledcomponents"width="40" height="40" alt="styledcomponents" />
       <br>Styled.C
@@ -80,18 +85,14 @@
         <img src="https://skillicons.dev/icons?i=vite"width="40" height="40" alt="vite" />
       <br>Vite
     </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
-      <br>Figma
-    </td>
-               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=xd" width="40" height="40" alt="xd" />
-      <br>XD
-    </td>
-        <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="idea" />
-              <br>Intellij
-           </td>
+ <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vitest" width="40" height="40" alt="vitest" />
+              <br>Vitest
+              </td> 
+                 <td align="center" width="96">
+                        <img src="https://avatars.githubusercontent.com/u/49996085?s=48&v=4" width="40" height="40" alt="vitest" />
+              <br>React test
+              </td> 
       </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
@@ -111,15 +112,15 @@
       </td>
          </tr>
         <tr>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=vitest" width="40" height="40" alt="vitest" />
-              <br>Vitest
-              </td> 
-                 <td align="center" width="96">
-                        <img src="https://avatars.githubusercontent.com/u/49996085?s=48&v=4" width="40" height="40" alt="vitest" />
-              <br>React test
-              </td> 
-                 <td align="center" width="96">
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br>Figma
+    </td>
+               <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=xd" width="40" height="40" alt="xd" />
+      <br>XD
+    </td>
+           <td align="center" width="96">
                         <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
                       <br>NPM
               </td>
@@ -134,13 +135,6 @@
 
 <h3 align="left">Goals:</h3>
 <p align="left">
-         <a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-      >
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="ts" />
-      </a>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
       </a>
