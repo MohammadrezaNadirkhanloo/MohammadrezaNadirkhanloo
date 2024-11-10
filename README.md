@@ -157,12 +157,13 @@
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>     
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaNadirkhanloo&theme=transparent&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaNadirkhanloo&layout=compact&theme=transparent" width="40%"/> 
+
 </p>
 
+
 <p align="center">
-<a href="https://github.com/MohammadrezaNadirkhanloo?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=MohammadrezaNadirkhanloo&theme=transparent&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
-<a href="https://github.com/MohammadrezaNadirkhanloo?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=MohammadrezaNadirkhanloo&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+        <img src="https://github-readme-stats.vercel.app/api?username=MohammadrezaNadirkhanloo&show_icons=true&theme=transparent" width="50%"/>
 </p>
 
 <div align="center">
