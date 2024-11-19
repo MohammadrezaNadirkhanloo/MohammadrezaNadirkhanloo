@@ -33,6 +33,10 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+        <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
+      <br>Next
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
@@ -65,13 +69,13 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-      <br>Tailwind
-    </td>
 
   </tr>
   <tr>
+        <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br>Tailwind
+    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=materialui"width="40" height="40" alt="materialui" />
       <br>MUI
@@ -94,11 +98,7 @@
               <br>React test
               </td> 
       </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
-                     </td>
-                             <td align="center" width="96"> 
+        <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
     </td>
@@ -128,6 +128,10 @@
         <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="postman" />
       <br>Postman
     </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+       </td>
         </tr>
 </table>
 <br><br>
@@ -135,11 +139,8 @@
 
 <h3 align="left">Goals:</h3>
 <p align="left">
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
-      </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker" />
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker" />
       </a>
         <a href="" target="_blank" rel="noreferrer">
         <img
