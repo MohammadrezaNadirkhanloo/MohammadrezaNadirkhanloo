@@ -41,6 +41,10 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
     </td>
+                  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="40" height="40" />
+      <br>R.Native
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="40" height="40" />
       <br>Redux
@@ -61,17 +65,17 @@
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
     </td>
-  <td align="center" width="96">
+ <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40" />
       <br>Sass
           </td>
+
+  </tr>
+  <tr>
               <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
     </td>
-
-  </tr>
-  <tr>
         <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
       <br>Tailwind
@@ -106,12 +110,12 @@
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="40" height="40" />
       <br>Github
     </td>
-        <td align="center" width="96">
+         </tr>
+        <tr>
+                        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
       <br>Gitlab
       </td>
-         </tr>
-        <tr>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
       <br>Figma
