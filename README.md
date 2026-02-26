@@ -124,19 +124,36 @@
         <img src="https://skillicons.dev/icons?i=xd" width="40" height="40" alt="xd" />
       <br>XD
     </td>
-           <td align="center" width="96">
-                        <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
-                      <br>NPM
-              </td>
-                     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="postman" />
-      <br>Postman
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
+          <br>NPM
     </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
-       </td>
-        </tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pnpm" width="40" height="40" alt="pnpm" />
+          <br>Pnpm
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=yarn" width="40" height="40" alt="yarn" />
+          <br>Yarn
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman"width="40" height="40" alt="postman" />
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+        <br>VsCode
+    </td>
+    <td align="center" width="96">
+      <img
+          src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png"
+          alt="pwa"
+          width="40"
+          height="40"
+        />
+        <br>PWA
+    </td>
+    </tr>
 </table>
 <br><br>
 </table>
@@ -147,25 +164,19 @@
         <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker" />
       </a>
         <a href="" target="_blank" rel="noreferrer">
-        <img
-          src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png"
-          alt="pwa"
-          width="40"
-          height="40"
-        />
+  <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="go" />
       </a>
                 <a href="" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="graphql" />
       </a>
 </p>
 
-<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>     
+<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaNadirkhanloo&layout=compact&theme=transparent" width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadrezaNadirkhanloo&layout=compact&theme=transparent" width="40%"/>
 
 </p>
-
 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=MohammadrezaNadirkhanloo&show_icons=true&theme=transparent" width="50%"/>
