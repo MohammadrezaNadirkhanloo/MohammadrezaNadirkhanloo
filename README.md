@@ -160,6 +160,16 @@
       <br>PWA
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="40" height="40" alt="shadcn" />
+      <br>shadcn/ui
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="40" height="40" alt="zustand" />
+      <br>Zustand
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -177,14 +187,6 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=4&width=100%" width="100%"/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MohammadrezaNadirkhanloo/MohammadrezaNadirkhanloo/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
-
-<br/>
 
 ## 📊 GitHub Stats
 
