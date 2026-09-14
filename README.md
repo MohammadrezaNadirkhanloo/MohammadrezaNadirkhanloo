@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Mohammadreza%20Nadirkhanloo&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Front-end%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Mohammadreza%20Nadirkhanloo&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=React+%2F+TypeScript+Developer;Clean+code%2C+clean+UI;Open+to+new+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Full-stack+Developer;React+%2F+TypeScript+on+the+front;Go+%2F+Gin+%2F+PostgreSQL+on+the+back;Clean+code%2C+clean+architecture" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,9 @@
 ## 🧑‍💻 About Me
 
 - 🔭 &nbsp;All of my projects are available at **[github.com/MohammadrezaNadirkhanloo](https://github.com/MohammadrezaNadirkhanloo)**
-- 💬 &nbsp;Ask me about **React · TypeScript · JavaScript · HTML · CSS**
+- 🎨 &nbsp;Ask me about **React · Next.js · TypeScript · JavaScript · HTML · CSS**
+- ⚙️ &nbsp;Also building APIs with **Go · Gin · PostgreSQL · Redis · Docker**
+- 🔌 &nbsp;Into **REST APIs, WebSocket, JWT auth and observability with ELK**
 - 📫 &nbsp;Reach me at **m.nadirkhanloo1380@gmail.com**
 
 <br/>
@@ -43,7 +45,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=4&width=100%" width="100%"/>
 
-## 🛠️ Languages and Tools
+## 🎨 Frontend
 
 <table align="center">
   <tr>
@@ -64,6 +66,10 @@
       <br>Redux
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="40" height="40" alt="zustand" />
+      <br>Zustand
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="typescript" />
       <br>TypeScript
     </td>
@@ -79,12 +85,12 @@
       <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="sass" />
       <br>Sass
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
@@ -102,6 +108,10 @@
       <br>Styled.C
     </td>
     <td align="center" width="96">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="40" height="40" alt="shadcn" />
+      <br>shadcn/ui
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="vite" />
       <br>Vite
     </td>
@@ -113,6 +123,84 @@
       <img src="https://avatars.githubusercontent.com/u/49996085?s=48&v=4" width="40" height="40" alt="react test" />
       <br>React test
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/mdi/lan-connect.svg?color=%232575fc" width="40" height="40" alt="websocket" />
+      <br>WebSocket
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" width="40" height="40" alt="pwa" />
+      <br>PWA
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=4&width=100%" width="100%"/>
+
+## ⚙️ Backend
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="go" />
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" height="40" alt="gin" />
+      <br>Gin
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/mdi/api.svg?color=%232575fc" width="40" height="40" alt="rest api" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/jsonwebtokens/2575fc" width="40" height="40" alt="jwt" />
+      <br>JWT
+    </td>
+    <td align="center" width="96">
+      <img src="https://api.iconify.design/mdi/snake.svg?color=%236a11cb" width="40" height="40" alt="viper" />
+      <br>Viper
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="postgresql" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/elasticsearch" width="40" height="40" alt="elasticsearch" />
+      <br>Elastic
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/logstash" width="40" height="40" alt="logstash" />
+      <br>Logstash
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/kibana" width="40" height="40" alt="kibana" />
+      <br>Kibana
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=4&width=100%" width="100%"/>
+
+## 🧰 Tools
+
+<table align="center">
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git" />
       <br>Git
@@ -121,8 +209,6 @@
       <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="github" />
       <br>Github
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="gitlab" />
       <br>Gitlab
@@ -151,23 +237,11 @@
       <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="vscode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" width="40" height="40" alt="pwa" />
-      <br>PWA
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="40" height="40" alt="shadcn" />
-      <br>shadcn/ui
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="40" height="40" alt="zustand" />
-      <br>Zustand
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="vscode" />
+      <br>VsCode
     </td>
   </tr>
 </table>
@@ -179,9 +253,10 @@
 ## 🎯 Goals
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker" />
-  <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="go" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="kubernetes" />
   <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="graphql" />
+  <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="grafana" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="nginx" />
 </p>
 
 <br/>
